@@ -5,21 +5,19 @@ ssl-to-tls
 
 Chrome extension that replaces occurrences of ' SSL ' with ' TLS '
 
-[Direct download of crx file](https://github.com/panicsteve/cloud-to-butt/blob/master/CloudToButt.crx?raw=true)
+[Direct download of crx file](https://github.com/rimhoffd/ssl-to-tls/blob/master/SSLtoTLS.crx?raw=true)
 
-Note that there are forks of this extension that simply replace 'cloud' with 'butt'.
-In my personal opinion, that approach is too broad and it's less funny as a result, but it is clearly a very
-polarizing issue in the cloud-to-butt user community.  Forks are free to do whatever they like.  But officially, _this_ extension replaces only the phrase described above. Thank you for your concern.
+Forks are free to do whatever they like.  But officially, _this_ extension replaces only the phrase described above. Thank you for your concern.
 
 Screenshot Gallery
 ------------------
 
-http://www.flickr.com/groups/cloud-to-butt/
+o_o soon...
 
 Installation
 ------------
 
-In Chrome, choose Window > Extensions.  Drag CloudToButt.crx into the page that appears.
+In Chrome, choose Window > Extensions.  Drag SSLtoTLS.crx into the page that appears.
 
 Safari Version
 --------------
