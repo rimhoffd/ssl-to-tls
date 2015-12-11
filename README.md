@@ -22,18 +22,18 @@ In Chrome, choose Window > Extensions.  Drag SSLtoTLS.crx into the page that app
 Safari Version
 --------------
 
-Can be found here: https://github.com/logancollins/cloud-to-butt-safari
+Can be found here: o_o soon...
 
 Firefox Version
 ---------------
 
-Can be found here: https://github.com/DaveRandom/cloud-to-butt-mozilla
+Can be found here: o_o soon...
 
 
 Opera Version
 ---------------
 
-Can be found here: https://github.com/DaveRandom/cloud-to-butt-opera
+pssf!!!111!!one!!
 
 Blantent Ripoff
 ---------------
