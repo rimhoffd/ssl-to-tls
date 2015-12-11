@@ -32,9 +32,9 @@ function handleText(textNode)
 	var v = textNode.nodeValue;
 
 	v = v.replace(/\b SSL \b/g, " TLS ");
-	v = v.replace(/\b(SSL)\b/g, “(TLS)”);
+	v = v.replace(/\b ssl \b/g, " tls ");
+	v = v.replace(/\b'SSL'\b/g, " 'tls' ");
+	v = v.replace(/\bSSL\b/g, "TLS");
 	
 	textNode.nodeValue = v;
 }
-
-
